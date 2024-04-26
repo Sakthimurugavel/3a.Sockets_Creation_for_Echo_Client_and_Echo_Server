@@ -9,8 +9,8 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.
 ## PROGRAM:
-### Developed By: Haarish V
-### Register No: 212223230067
+### Developed By:sakthivel M
+### Register No: 212222240088
 ## Server Side:
 ```python
 import socket
